@@ -1,4 +1,5 @@
 # Red Dot Grid
+![image](https://github.com/ArcticKangaroo/red-dot-grid/assets/62847649/8480699c-7d3c-41d3-bb5f-e26795852565)
 
 ### Testing
 
